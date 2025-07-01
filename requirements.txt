@@ -10,3 +10,4 @@ tensorflow
 pillow==11.1.0
 seaborn==0.12.2
 plotly==5.24.1
+cv2
